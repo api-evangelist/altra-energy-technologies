@@ -1,8 +1,29 @@
 aid: altra-energy-technologies
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/altra-energy-technologies.png
 name: Altra Energy Technologies
-description: Altra Energy Technologies is a company surfaced as a portfolio company of battery-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Altra Energy Technologies was a Houston, Texas software company founded in 1996 by Williams and
+  PanEnergy (later Duke Energy) that built neutral online trading platforms for the energy sector.
+  Its flagship marketplace, Altrade, provided a real-time, anonymous electronic exchange for trading
+  natural gas, crude oil, natural gas liquids, and power, backed by energy transaction management
+  software spanning deal capture, portfolio monitoring, physical scheduling, and back-office
+  reconciliation and settlement. At its peak the platform served more than 6,000 users worldwide.
+  The company raised roughly $55.5M from investors including Battery Ventures, Austin Ventures, BP,
+  Candescent Partners, and Capital Resource Partners. It ceased to exist as an independent company
+  around 2002: its software operations were acquired by Caminus Corporation and its online
+  marketplace by ChemConnect (recorded elsewhere as Supply Chain Connect). No live developer portal,
+  API, or public developer surface exists for this defunct company.
 url: https://raw.githubusercontent.com/api-evangelist/altra-energy-technologies/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +31,31 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-detail: Software operations acquired by Caminus Corporation and online marketplace by ChemConnect circa 2002; no live developer surface.
+x-founded: '1996'
+x-headquarters: Houston, Texas, United States
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Energy
+- Energy Trading
+- Oil and Gas
+- Natural Gas
+- Commodities
+- Marketplace
+- Transaction Management
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
