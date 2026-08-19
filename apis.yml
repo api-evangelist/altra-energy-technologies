@@ -35,7 +35,7 @@ x-status: defunct
 x-status-detail: Software operations acquired by Caminus Corporation and online marketplace by ChemConnect circa 2002; no live developer surface.
 x-founded: '1996'
 x-headquarters: Houston, Texas, United States
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
