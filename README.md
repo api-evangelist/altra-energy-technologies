@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Altra Energy Technologies is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Altra Energy Technologies was a Houston, Texas software company founded in 1996 by Williams and PanEnergy (later Duke Energy) that built neutral online trading platforms for the energy sector. Its flagship marketplace, Altrade, provided a real-time, anonymous electronic exchange for trading natural gas, crude oil, natural gas liquids, and power, backed by energy transaction management software spanning deal capture, portfolio monitoring, physical scheduling, and back-office reconciliation and settlement. At its peak the platform served more than 6,000 users worldwide. The company raised roughly $55.5M from investors including Battery Ventures, Austin Ventures, BP, Candescent Partners, and Capital Resource Partners. It ceased to exist as an independent company around 2002: its software operations were acquired by Caminus Corporation and its online marketplace by ChemConnect (recorded elsewhere as Supply Chain Connect). No live developer portal, API, or public developer surface exists for this defunct company.
+
+**Areas:** Company · Energy · Energy Trading · Oil and Gas · Natural Gas · Commodities · Marketplace · Transaction Management · Defunct
+
+## Altra Energy Technologies on APIs.io (historical record)
+
+Everything profiled for Altra Energy Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/altra-energy-technologies/](https://apis.io/providers/altra-energy-technologies/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Altra Energy Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/altra-energy-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
